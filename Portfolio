@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mariam Khalil | Home</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h2>Mariam Khalil</h2>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="skills.html">Skills</a>
+    <a href="projects.html">Projects</a>
+    <a href="certificates.html">Certificates</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Mariam Mohamed Mohamed Khalil</h1>
+  <div class="typing" id="typing"></div>
+  <a href="projects.html" class="btn">View My Work</a>
+</section>
+
+<section id="about">
+  <h2 class="section-title">About Me</h2>
+  <p>
+    I'm a passionate Cybersecurity enthusiast with a strong interest in SOC operations and Digital Forensics.
+    I have completed multiple online internships and cybersecurity courses, including a SOC diploma
+    and participation in the DEPI Digital Forensics initiative.
+    I am dedicated to continuous learning, incident analysis, and strengthening my technical and analytical skills.
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 Mariam Khalil | Digital Forensics Specialist</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
